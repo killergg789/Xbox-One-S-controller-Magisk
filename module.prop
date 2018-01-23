@@ -1,0 +1,7 @@
+id=x-one-s-controller
+name=Xbox One S controller
+version=v1
+versionCode=1
+author=ja_som
+description=Adds needed keyboard layout file, so you can use Xbox One S controller for gaming on your Android device.
+minMagisk=1500
